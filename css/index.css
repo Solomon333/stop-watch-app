@@ -1,0 +1,39 @@
+*{
+ 
+    box-sizing: 0;
+}
+
+body{
+    background: #FFFFE0;
+    color:#FFD700;
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin: 2rem;
+    font-size: 2.2rem;
+    
+}
+.stopWatch{
+    display: inline-block;
+    border-radius: 1rem;
+    margin: 2rem;
+    padding: 2rem;
+    background-color: #FA8072;
+    font-size: 50px;
+    color: #DC143C;
+}
+
+button{
+   background: #008080; 
+   color: #DAA520;   
+   font-size: 1.3rem; 
+   padding: 0.5rem;
+   border-radius: 1rem;
+   border-style: none;
+    cursor: pointer;   
+}
+
+button:hover {
+    background: #FFD700;
+}
