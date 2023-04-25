@@ -1,4 +1,9 @@
+- StopWatch - WebApp
 
-a simple stop watch that have a reset , start and stop buttons. 
-built using javascript- DOM manipulation , functions 
- css styling and html.
+- Include Reset , Start and Stop Buttons.
+
+- Built using javascript - DOM manipulation. 
+
+- CSS3. 
+
+- HTML5.
