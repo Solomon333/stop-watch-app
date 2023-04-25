@@ -1,4 +1,4 @@
-- StopWatch - WebApp
+@StopWatch - WebApp
 
 - Include Reset , Start and Stop Buttons.
 
