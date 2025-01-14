@@ -1,5 +1,7 @@
 StopWatch - 
-WebApp . javascript - 
+WebApp . 
+javascript - 
 DOM manipulation.  
-Include Reset , Start and Stop Buttons. 
+Include Reset ,
+Start and Stop Buttons. 
 HTML5 and CSS3. 
